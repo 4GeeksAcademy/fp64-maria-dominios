@@ -1,4 +1,4 @@
-   AstadiumId(("`obtener array nuevo combinando arrays pronoun y adj`"))-->BrectId["`Obtener otro array a partir de la combinación del array resultante anterior junto con el array noun`"]-->CstadiumId(["`Imprimir el resultado`"])
+
 
 # Hello World with Vanilla JS
 
