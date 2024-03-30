@@ -1,5 +1,5 @@
 
-![Nombre de la imagen]([https://github.com/4GeeksAcademy/fp64-maria-dominios/blob/main/diagrama%20dominio.svg](https://github.com/4GeeksAcademy/fp64-maria-dominios/blob/main/diagrama%20dominio.svg))
+![Nombre de la imagen](https://github.com/4GeeksAcademy/fp64-maria-dominios/blob/main/diagrama%20dominio.svg)
 
 
 
