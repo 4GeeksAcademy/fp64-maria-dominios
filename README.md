@@ -1,3 +1,5 @@
+   AstadiumId(("`obtener array nuevo combinando arrays pronoun y adj`"))-->BrectId["`Obtener otro array a partir de la combinación del array resultante anterior junto con el array noun`"]-->CstadiumId(["`Imprimir el resultado`"])
+
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
