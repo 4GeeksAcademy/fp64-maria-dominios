@@ -1,4 +1,6 @@
 
+![Diagrama de flujo](diagrama dominio.svg)
+
 
 # Hello World with Vanilla JS
 
