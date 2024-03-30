@@ -1,5 +1,6 @@
 
-![Diagrama de flujo](fp64-maria-dominios/diagrama dominio.svg)
+![Nombre de la imagen](https://raw.githubusercontent.com/tu_usuario/fp64-maria-dominios/main/diagrama_dominio.svg)
+
 
 
 # Hello World with Vanilla JS
