@@ -1,5 +1,6 @@
 
-![Diagrama de flujo](diagrama dominio.svg)
+![Diagrama de flujo](fp64-maria-dominios
+/diagrama dominio.svg)
 
 
 # Hello World with Vanilla JS
